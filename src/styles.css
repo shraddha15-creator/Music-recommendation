@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+
+body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+#heading {
+  font-size: 2.5rem;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.7rem;
+  margin: 1rem;
+  background-color: #1b1b1b;
+  color: #eee;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(66, 66, 66);
+}
+
+.fav-playlist {
+  border: 1px solid black;
+}
+
+.fav-playlist a {
+  text-decoration: none;
+}
+
+.fav-playlist .playlist-details {
+  background-color: rgb(26, 26, 26);
+  color: white;
+  align-items: center;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 1rem;
+  font-size: 1rem;
+}

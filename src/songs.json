@@ -1,0 +1,107 @@
+{
+  "lofi": [
+    {
+      "name": "Befikar",
+      "genre": "lofi Bollywood",
+      "artist": "Advait",
+      "link": "https://open.spotify.com/track/5xokubGe2MFAHxBvVSpeJq?si=6561b177ec544d07"
+    },
+
+    {
+      "name": "Jiyein Kyun",
+      "genre": "lofi Bollywood",
+      "artist": "DJ Saquib",
+      "link": "https://open.spotify.com/track/4JNIFLhE1Rk3222lQmyFib?si=a6dcc85069b44f87"
+    },
+
+    {
+      "name": "Play Date X Main Tera",
+      "genre": "lofi Bollywood",
+      "artist": "Pranish VP",
+      "link": "https://open.spotify.com/track/153r0ig3wR3Y8GFdhiMPsU?si=39cdd9ea39c24c26"
+    },
+
+    {
+      "name": "Agar Tum Sath Ho",
+      "genre": "lofi Bollywood",
+      "artist": "RAshmeet KAur",
+      "link": "https://open.spotify.com/track/34AyCizNnC9vTwmmKevZVp?si=781c2d7e101a4f39"
+    },
+
+    {
+      "name": "Zaalima X Gerua",
+      "genre": "lofi Bollywood",
+      "artist": "Ajay",
+      "link": "https://open.spotify.com/track/3HuuKaMwuZR03HpJnWJCcP?si=0598817441b54dd0"
+    }
+  ],
+
+  "remix": [
+    {
+      "name": "Garmi Non stop",
+      "genre": "remix",
+      "artist": "Various Artist",
+      "link": "https://open.spotify.com/track/4mPjS5YqJUgOEnTnvFpxEt?si=5e32504a888c42b6"
+    },
+
+    {
+      "name": "Doorie",
+      "genre": "remix",
+      "artist": "Atif Aslam",
+      "link": "https://open.spotify.com/track/6zzhiyH4EvW4vUGpFdvDZE?si=1713fddafbba43c6"
+    },
+
+    {
+      "name": "Twist",
+      "genre": "remix",
+      "artist": "Neeraj Shridhar",
+      "link": "https://open.spotify.com/track/1fSlvN7hzr94JDXgx6zioK?si=8dde79e40fa44513"
+    },
+
+    {
+      "name": "Aye Khuda",
+      "genre": "remix",
+      "artist": "Salim Merchant",
+      "link": "https://open.spotify.com/track/48qOUsJ1py3Cc9eAaETkt7?si=85a3d6ae8b3e4d3c"
+    }
+  ],
+
+  "evergreen": [
+    {
+      "name": "Dilbar  Mere",
+      "genre": "evergreen",
+      "artist": "Kishore Kumar",
+      "link": "https://open.spotify.com/track/3lMpTklvNnjaztdTEXdEXs?si=1e38f051877d47d9"
+    },
+
+    {
+      "name": "Hum Bewafa Hurgiz na the",
+      "genre": "evergreen",
+      "artist": "Sanam",
+      "link": "https://open.spotify.com/track/3HWkDm6fQolw2k2NxRcNCa?si=1eb081fab86a4ac9"
+    }
+  ],
+
+  "zumba": [
+    {
+      "name": "TKN",
+      "genre": "workout",
+      "artist": "ROSALIA",
+      "link": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7?si=5c9bf1e7c52a44f8"
+    },
+
+    {
+      "name": "POWER",
+      "genre": "workout",
+      "artist": "Kanye West",
+      "link": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc?si=469e329dc454459d"
+    },
+
+    {
+      "name": "High Horse",
+      "genre": "workout",
+      "artist": "Kasey",
+      "link": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ?si=3e5306a04cad48be"
+    }
+  ]
+}
