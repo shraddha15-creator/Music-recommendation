@@ -4,25 +4,20 @@ import songsData from "./songs.json";
 
 export default function App() {
   var [genre, setGenre] = useState(songsData.lofi);
-  var [artist, setArtist] = useState(false);
 
   function lofiMusicClickHandler() {
-    setArtist(true);
     setGenre(songsData.lofi);
   }
 
   function remixMusicClickHandler() {
-    setArtist(true);
     setGenre(songsData.remix);
   }
 
   function evergreenMusicClickHandler() {
-    setArtist(true);
     setGenre(songsData.evergreen);
   }
 
   function zumbaGymMusicClickHandler() {
-    setArtist(true);
     setGenre(songsData.zumba);
   }
 
