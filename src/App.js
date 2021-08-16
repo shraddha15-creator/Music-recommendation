@@ -59,6 +59,7 @@ export default function App() {
                     <h1 id="playlis-name">{playlist.name}</h1>
                     <div id="artist">{playlist.artist}</div>
                     <div id="genre">Genre: {playlist.genre}</div>
+                    <div id="rating">{playlist.ratings}</div>
                   </div>
                 </li>
               </a>
