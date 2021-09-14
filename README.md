@@ -1,2 +1,10 @@
 # Music-recommendation
-Created with CodeSandbox
+I have some awsome music playlist 💿
+
+
+* Playlist Available :
+  * Lofi Bollywood
+  * Bollywood Remix
+  * Evergreen Songs
+  * Zumba/Gym Songs
+
