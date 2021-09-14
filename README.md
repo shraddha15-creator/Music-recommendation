@@ -1,4 +1,4 @@
-# Music-recommendation
+#🎶Music-recommendation App
 I have some awsome music playlist 💿
 
 
