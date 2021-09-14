@@ -1,4 +1,5 @@
-#🎶Music-recommendation App
+# 🎶[Music-recommendation App](https://music-recommendation-by-shraddha.netlify.app/)
+
 I have some awsome music playlist 💿
 
 
