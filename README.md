@@ -3,7 +3,7 @@
 I have some awsome music playlist 💿
 
 
-* Playlist Available :
+* Genre Available :
   * Lofi Bollywood
   * Bollywood Remix
   * Evergreen Songs
